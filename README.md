@@ -13,6 +13,8 @@ Daftar Email-Password : - agree1@gmail.com-12345678
 
 Cara Penggunaan Aplikasi : 
 
+Link Dokumen Pendukung : [https://drive.google.com/drive/folders/1c5_aaqvdAouv9STTHMn5is2CYApgxF6A?usp=sharing]
+
 Menu Untuk Admin : 
 
         1. Login : 
