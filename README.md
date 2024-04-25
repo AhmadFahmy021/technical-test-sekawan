@@ -14,6 +14,7 @@ Daftar Email-Password : - agree1@gmail.com-12345678
 Cara Penggunaan Aplikasi : 
 
 Menu Untuk Admin : 
+
         1. Login : 
             - Silahkan ketikkan /login atau 127.0.0.1:8000/login untuk menampilkan form login
             - Ketikkan Email dan Password yang sudah di sediakan di atas ke dalam form yang tersedia 
